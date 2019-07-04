@@ -1,0 +1,8 @@
+c:\users\rpantino\documents\visual studio 2010\Projects\CanvasBackTrackv2\CanvasBackTrackv2\bin\Debug\CanvasBackTrackv2.dll
+c:\users\rpantino\documents\visual studio 2010\Projects\CanvasBackTrackv2\CanvasBackTrackv2\bin\Debug\CanvasBackTrackv2.pdb
+c:\users\rpantino\documents\visual studio 2010\Projects\CanvasBackTrackv2\CanvasBackTrackv2\bin\Debug\CanvasBackTrackv2.xml
+c:\users\rpantino\documents\visual studio 2010\Projects\CanvasBackTrackv2\CanvasBackTrackv2\obj\Debug\CanvasBackTrackv2.Resources.resources
+c:\users\rpantino\documents\visual studio 2010\Projects\CanvasBackTrackv2\CanvasBackTrackv2\obj\Debug\CanvasBackTrackv2.vbproj.GenerateResource.Cache
+c:\users\rpantino\documents\visual studio 2010\Projects\CanvasBackTrackv2\CanvasBackTrackv2\obj\Debug\CanvasBackTrackv2.dll
+c:\users\rpantino\documents\visual studio 2010\Projects\CanvasBackTrackv2\CanvasBackTrackv2\obj\Debug\CanvasBackTrackv2.xml
+c:\users\rpantino\documents\visual studio 2010\Projects\CanvasBackTrackv2\CanvasBackTrackv2\obj\Debug\CanvasBackTrackv2.pdb
